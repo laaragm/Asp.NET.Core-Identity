@@ -1,0 +1,12 @@
+C:\Users\Lara\source\repos\WebApp\Identity.Infra\bin\Debug\netcoreapp2.2\Identity.Infra.deps.json
+C:\Users\Lara\source\repos\WebApp\Identity.Infra\bin\Debug\netcoreapp2.2\Identity.Infra.dll
+C:\Users\Lara\source\repos\WebApp\Identity.Infra\bin\Debug\netcoreapp2.2\Identity.Infra.pdb
+C:\Users\Lara\source\repos\WebApp\Identity.Infra\bin\Debug\netcoreapp2.2\Identity.Domain.dll
+C:\Users\Lara\source\repos\WebApp\Identity.Infra\bin\Debug\netcoreapp2.2\Identity.Domain.pdb
+C:\Users\Lara\source\repos\WebApp\Identity.Infra\obj\Debug\netcoreapp2.2\Identity.Infra.csprojAssemblyReference.cache
+C:\Users\Lara\source\repos\WebApp\Identity.Infra\obj\Debug\netcoreapp2.2\Identity.Infra.AssemblyInfoInputs.cache
+C:\Users\Lara\source\repos\WebApp\Identity.Infra\obj\Debug\netcoreapp2.2\Identity.Infra.AssemblyInfo.cs
+C:\Users\Lara\source\repos\WebApp\Identity.Infra\obj\Debug\netcoreapp2.2\Identity.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Lara\source\repos\WebApp\Identity.Infra\obj\Debug\netcoreapp2.2\Identity.Infra.csproj.CopyComplete
+C:\Users\Lara\source\repos\WebApp\Identity.Infra\obj\Debug\netcoreapp2.2\Identity.Infra.dll
+C:\Users\Lara\source\repos\WebApp\Identity.Infra\obj\Debug\netcoreapp2.2\Identity.Infra.pdb

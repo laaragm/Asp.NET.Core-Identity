@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "k7B2PPpzeINLCrYExlw2cQG8fR2CsI9/a4KRyIKtfpjFpNgX+7CgPFe9UkS/qNjnjf7RJRxp6gbeyd5zj+LiKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lara\\source\\repos\\WebApp\\WebApp.Mailing\\WebApp.Mailing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lara\\.nuget\\packages\\mailjet.api\\2.0.1\\mailjet.api.2.0.1.nupkg.sha512",
+    "C:\\Users\\Lara\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\Lara\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\Lara\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\Lara\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\Lara\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\Lara\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\Lara\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Lara\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

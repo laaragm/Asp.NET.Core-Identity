@@ -1,0 +1,9 @@
+C:\Users\Lara\source\repos\WebApp\WebAPI.Domain\bin\Debug\netcoreapp2.2\Identity.Domain.deps.json
+C:\Users\Lara\source\repos\WebApp\WebAPI.Domain\bin\Debug\netcoreapp2.2\Identity.Domain.dll
+C:\Users\Lara\source\repos\WebApp\WebAPI.Domain\bin\Debug\netcoreapp2.2\Identity.Domain.pdb
+C:\Users\Lara\source\repos\WebApp\WebAPI.Domain\obj\Debug\netcoreapp2.2\Identity.Domain.csprojAssemblyReference.cache
+C:\Users\Lara\source\repos\WebApp\WebAPI.Domain\obj\Debug\netcoreapp2.2\Identity.Domain.AssemblyInfoInputs.cache
+C:\Users\Lara\source\repos\WebApp\WebAPI.Domain\obj\Debug\netcoreapp2.2\Identity.Domain.AssemblyInfo.cs
+C:\Users\Lara\source\repos\WebApp\WebAPI.Domain\obj\Debug\netcoreapp2.2\Identity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lara\source\repos\WebApp\WebAPI.Domain\obj\Debug\netcoreapp2.2\Identity.Domain.dll
+C:\Users\Lara\source\repos\WebApp\WebAPI.Domain\obj\Debug\netcoreapp2.2\Identity.Domain.pdb

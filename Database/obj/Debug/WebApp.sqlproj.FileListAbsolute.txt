@@ -1,0 +1,6 @@
+C:\Users\Lara\source\repos\WebApp\Database\bin\Debug\WebApp.dacpac
+C:\Users\Lara\source\repos\WebApp\Database\bin\Debug\Database.dll
+C:\Users\Lara\source\repos\WebApp\Database\bin\Debug\Database.pdb
+C:\Users\Lara\source\repos\WebApp\Database\obj\Debug\Database.dll
+C:\Users\Lara\source\repos\WebApp\Database\obj\Debug\Database.pdb
+C:\Users\Lara\source\repos\WebApp\Database\obj\Debug\WebApp.sqlprojAssemblyReference.cache

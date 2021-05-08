@@ -1,0 +1,14 @@
+C:\Users\Lara\source\repos\WebApp\Identity.Services\bin\Debug\netcoreapp2.2\Identity.Services.deps.json
+C:\Users\Lara\source\repos\WebApp\Identity.Services\bin\Debug\netcoreapp2.2\Identity.Services.dll
+C:\Users\Lara\source\repos\WebApp\Identity.Services\bin\Debug\netcoreapp2.2\Identity.Services.pdb
+C:\Users\Lara\source\repos\WebApp\Identity.Services\bin\Debug\netcoreapp2.2\Identity.Domain.dll
+C:\Users\Lara\source\repos\WebApp\Identity.Services\bin\Debug\netcoreapp2.2\Identity.Services.Abstractions.dll
+C:\Users\Lara\source\repos\WebApp\Identity.Services\bin\Debug\netcoreapp2.2\Identity.Services.Abstractions.pdb
+C:\Users\Lara\source\repos\WebApp\Identity.Services\bin\Debug\netcoreapp2.2\Identity.Domain.pdb
+C:\Users\Lara\source\repos\WebApp\Identity.Services\obj\Debug\netcoreapp2.2\Identity.Services.csprojAssemblyReference.cache
+C:\Users\Lara\source\repos\WebApp\Identity.Services\obj\Debug\netcoreapp2.2\Identity.Services.AssemblyInfoInputs.cache
+C:\Users\Lara\source\repos\WebApp\Identity.Services\obj\Debug\netcoreapp2.2\Identity.Services.AssemblyInfo.cs
+C:\Users\Lara\source\repos\WebApp\Identity.Services\obj\Debug\netcoreapp2.2\Identity.Services.csproj.CoreCompileInputs.cache
+C:\Users\Lara\source\repos\WebApp\Identity.Services\obj\Debug\netcoreapp2.2\Identity.Services.csproj.CopyComplete
+C:\Users\Lara\source\repos\WebApp\Identity.Services\obj\Debug\netcoreapp2.2\Identity.Services.dll
+C:\Users\Lara\source\repos\WebApp\Identity.Services\obj\Debug\netcoreapp2.2\Identity.Services.pdb
